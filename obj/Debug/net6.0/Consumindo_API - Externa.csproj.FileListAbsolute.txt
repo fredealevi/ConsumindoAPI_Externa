@@ -1,0 +1,15 @@
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\bin\Debug\net6.0\Consumindo_API - Externa.exe
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\bin\Debug\net6.0\Consumindo_API - Externa.deps.json
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\bin\Debug\net6.0\Consumindo_API - Externa.runtimeconfig.json
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\bin\Debug\net6.0\Consumindo_API - Externa.dll
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\bin\Debug\net6.0\Consumindo_API - Externa.pdb
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.csproj.AssemblyReference.cache
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.AssemblyInfoInputs.cache
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.AssemblyInfo.cs
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.csproj.CoreCompileInputs.cache
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.dll
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\refint\Consumindo_API - Externa.dll
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.pdb
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\Consumindo_API - Externa.genruntimeconfig.cache
+C:\Projetos\Consumindo API Externa\Consumindo_API - Externa\Consumindo_API - Externa\obj\Debug\net6.0\ref\Consumindo_API - Externa.dll
